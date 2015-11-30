@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/testcase"/>
+	<classpathentry kind="src" path="src/interface"/>
+	<classpathentry kind="src" path="src/resource"/>
+	<classpathentry kind="src" path="src/action"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.2.jar" sourcepath="C:/Users/thuy.duong/.m2/repository/commons-net/commons-net/3.2/commons-net-3.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-examples-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.3.0-platform.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cucumber-testng-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/java-client-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tan/Desktop/cuc/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

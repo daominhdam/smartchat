@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<automation instance="SmartChat">
+ <instances>
+  <instance tag="SmartChat">
+   <applicationDir>src/resource</applicationDir>
+   <applicationName>app-release-SmartChat.apk</applicationName> 
+   <deviceName>emulator-5554</deviceName>
+   <devicePlatform>4.4.2</devicePlatform>
+   <applicationPackage>com.smartlink.smartchat</applicationPackage>
+   <applicationActivity>com.smartlink.smartchat.view.Login</applicationActivity>
+   <appiumURL>http://127.0.0.1:4723/wd/hub</appiumURL>
+  </instance>
+ </instances>
+</automation>
